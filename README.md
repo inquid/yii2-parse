@@ -53,7 +53,7 @@ Either add
     "repositories":[
         {
             "type": "git",
-            "url": "https://github.com/keygenqt/yii2-parse.git"
+            "url": "https://github.com/inquid/yii2-parse.git"
         }
     ]
 }

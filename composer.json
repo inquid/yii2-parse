@@ -1,16 +1,21 @@
 {
-    "name": "keygenqt/yii2-parse",
+    "name": "inquid/yii-parse",
     "description": "Parse integration and ActiveRecord for the Yii framework",
     "keywords": ["yii2", "parse", "parse.com", "active-record"],
     "type": "yii2-extension",
     "license": "GPL-3.0",
     "version":"0.5.0",
     "support": {
-        "email": "keygenqt@gmail.com",
+        "email": "contact@inquid.co",
         "wiki": "https://www.parse.com/docs/rest",
         "source": "https://github.com/keygenqt/yii2-parse"
     },
     "authors": [
+        {
+            "name": "Inquid Inc",
+            "email": "contact@inquid.co",
+            "role": "Developer"
+        },
         {
             "name": "Vitaliy Zarubin",
             "email": "keygenqt@gmail.com",
